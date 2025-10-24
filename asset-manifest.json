@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lalithSrini/Conservation-Geography/static/css/main.89ab0583.css",
-    "main.js": "/lalithSrini/Conservation-Geography/static/js/main.0e9c7f61.js",
+    "main.js": "/lalithSrini/Conservation-Geography/static/js/main.c67b092b.js",
     "static/js/453.2236d9b7.chunk.js": "/lalithSrini/Conservation-Geography/static/js/453.2236d9b7.chunk.js",
     "index.html": "/lalithSrini/Conservation-Geography/index.html",
     "main.89ab0583.css.map": "/lalithSrini/Conservation-Geography/static/css/main.89ab0583.css.map",
-    "main.0e9c7f61.js.map": "/lalithSrini/Conservation-Geography/static/js/main.0e9c7f61.js.map",
+    "main.c67b092b.js.map": "/lalithSrini/Conservation-Geography/static/js/main.c67b092b.js.map",
     "453.2236d9b7.chunk.js.map": "/lalithSrini/Conservation-Geography/static/js/453.2236d9b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ab0583.css",
-    "static/js/main.0e9c7f61.js"
+    "static/js/main.c67b092b.js"
   ]
 }
